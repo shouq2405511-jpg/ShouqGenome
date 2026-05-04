@@ -1,0 +1,2 @@
+exportClasses(Genome)
+exportMethods(avgProteinPerCh)
